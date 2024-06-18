@@ -1,0 +1,1 @@
+Nombre 1 ?Nombre 2 ?J'ecris 25 sur la sortie standard

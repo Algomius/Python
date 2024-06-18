@@ -1,0 +1,1 @@
+J'ecris 12 sur la sortie standard d'erreur
